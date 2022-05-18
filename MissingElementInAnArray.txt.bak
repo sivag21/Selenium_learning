@@ -7,6 +7,9 @@
 		// print the number
 		// once printed break the iteration
 
+
+
+
 public void missingElementInAnArray()
 	{
 		int[] arr = {1,2,3,4,7,6,8};
